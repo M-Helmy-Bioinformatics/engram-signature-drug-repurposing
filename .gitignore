@@ -1,0 +1,10 @@
+data/*
+!data/README.md
+!data/benchmark_compounds.csv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.gctx
+*.h5ad
